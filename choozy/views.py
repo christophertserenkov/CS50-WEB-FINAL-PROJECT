@@ -1,5 +1,4 @@
 import os
-import json
 import requests
 from rest_framework import viewsets
 from rest_framework.decorators import api_view
