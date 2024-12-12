@@ -44,7 +44,7 @@ def register(request):
         try:
             user = User.objects.create_user(username=username, email=email, password=password)
             user.save()
-            return HttpResponseRedirect(reverse('index'))
+            return HttpResponseRedirect(reverse('login'))
         except Exception:
             return render(request, 'choozy/register.html', {'error': 'Could not create account'})
     else:
