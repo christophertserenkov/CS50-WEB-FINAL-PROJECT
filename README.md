@@ -11,17 +11,17 @@ For this project you will need the following:
 - Django (5.1)
 - Django REST framework (3.15)
 
-This project uses the **Yelp Fusion API** and **LocationIQ**'s geocoding API. **To use this project you will need to get an API key for both of them!** No credit card is required to sign up for either of the APIs.
+This project uses the **Yelp Fusion API** and **LocationIQ**'s geocoding API. ***To use this project you will need to get an API key for both of them!*** No credit card is required to sign up for either of the APIs.
 
 To get your Yelp Fusion API key:
-Go to the [Yelp sign-up page](https://www.yelp.com/login?return_url=/developers/v3/manage_app) and create an account. You will be redirected to the Create App page.
-Create your app by filling out the form and selecting Starter as the access tier.
-After creating your app, you will be provided with your API key. 
+1. Go to the [Yelp sign-up page](https://www.yelp.com/login?return_url=/developers/v3/manage_app) and create an account. You will be redirected to the Create App page.
+2. Create your app by filling out the form and selecting Starter as the access tier.
+3. After creating your app, you will be provided with your API key. 
 
 To get your LocationIQ API key:
-Go to the [LocationIQ register page](https://my.locationiq.com/register) and create an account.
-Open the Dashboard
-Click [Access Tokens](https://my.locationiq.com/dashboard/#accesstoken), and there you will find your API key
+1. Go to the [LocationIQ register page](https://my.locationiq.com/register) and create an account.
+2. Open the Dashboard
+3. Click [Access Tokens](https://my.locationiq.com/dashboard/#accesstoken), and there you will find your API key
 
 ### Installation
 Clone the GitHub repository:
