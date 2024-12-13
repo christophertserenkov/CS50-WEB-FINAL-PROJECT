@@ -96,8 +96,8 @@ The `templates` directory includes all the HTML files:
 
 The `static` directory includes the `styles.css` stylesheet, and the src directory, which includes the cuisine and food type bubbles as png images. There are also some JavaScript files:
 - `create.js` - tries to get the user's coordinates, hides and shows the country and city selector, and uses an API to get the cities in a country and populates the city selector with them.
-- 'room.js' - adds a ring around the selected bubbles, manages swiping between the bubbles and the additional information page, and allows the user to select between cuisine and type.
+- `room.js' - adds a ring around the selected bubbles, manages swiping between the bubbles and the additional information page, and allows the user to select between cuisine and type.
 - `roomAdmin.js` - handles swiping if the viewport is less than or equal to 768px and makes API calls to display the amount and list of players. 
-- 'waiting.js` - makes API calls to get the number of players in the room and how many of them are done. Reloads the page if the room is no longer active to show results.
+- `waiting.js` - makes API calls to get the number of players in the room and how many of them are done. Reloads the page if the room is no longer active to show results.
 
 
