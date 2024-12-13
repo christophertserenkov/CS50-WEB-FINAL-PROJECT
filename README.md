@@ -7,9 +7,9 @@ A little over a year ago, I attended the Young Entrepreneurs Summer School organ
 ## Getting started
 ### Prerequisites
 For this project you will need the following:
-Python (3.12.3)
-Django (5.1)
-Django REST framework (3.15)
+- Python (3.12.3)
+- Django (5.1)
+- Django REST framework (3.15)
 
 This project uses the Yelp Fusion API and LocationIQ's geocoding API. To use this project you will need to get an API key for both of them. No credit card is required to sign up for either of the APIs.
 
