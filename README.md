@@ -100,4 +100,6 @@ The `static` directory includes the `styles.css` stylesheet, and the src directo
 - `roomAdmin.js` - handles swiping if the viewport is less than or equal to 768px and makes API calls to display the amount and list of players. 
 - `waiting.js` - makes API calls to get the number of players in the room and how many of them are done. Reloads the page if the room is no longer active to show results.
 
+## Conclusion
 
+Building this project was really fun, despite it turning out more complicated than I had anticipated. The biggest challenge was figuring out how to implement various features my hackathon team intended the product to have, not knowing how to code and thinking more from a business perspective. It was interesting to approach this idea from a developer's perspective, having the freedom to add additional features that I would not have come up with before knowing how to code and which weren't part of the original concept, like the waiting room for players, who have completed the survey. During this project, I tried to think from the perspective of the user, which resulted in me spending more time on this project developing additional features that make the application more user-friendly. I would like to thank my hackathon team for coming up with such an interesting concept, which turned out to be a fun coding project.
