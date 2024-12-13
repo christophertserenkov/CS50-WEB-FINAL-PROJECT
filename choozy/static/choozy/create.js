@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     cityInput.style.display = 'none';
 
     // Check if browser supports geolocation
-    if (navigator.geolocation) {
+    if (navigator.geolocation && pError.innerHTML === '') {
         // Try to get user's position
         navigator.geolocation.getCurrentPosition(successHandle, errorHandle);
 
@@ -195,3 +195,4 @@ function displayForm(countryInput, cityInput, submitInput) {
         .catch((error) => console.log(error));
     });
 }
+
