@@ -34,7 +34,7 @@ Navigate to the project directory:
 cd CS50-Web-Final-Project
 ```
 
-Ensure you have Python installed and create a virtual environment. You can do this by running `python3 -m venv .venv` and activating it with `source .venv/bin/activate` on Mac and Linux or `.venv\Scripts\activate` on Windows.
+Ensure you have Python installed and create a virtual environment. You can do this by running `python3 -m venv .venv` and activating it with `source .venv/bin/activate` on Mac and Linux or `.venv\Scripts\activate` on Windows. Alternatively, you can run `Python: Create Environment` in the VS Code Command Palette
 
 Run `pip3 install -r requirements.txt` to install the necessary packages.
 
