@@ -11,7 +11,7 @@ For this project you will need the following:
 - Django (5.1)
 - Django REST framework (3.15)
 
-This project uses the Yelp Fusion API and LocationIQ's geocoding API. To use this project you will need to get an API key for both of them. No credit card is required to sign up for either of the APIs.
+This project uses the **Yelp Fusion API** and **LocationIQ**'s geocoding API. **To use this project you will need to get an API key for both of them!** No credit card is required to sign up for either of the APIs.
 
 To get your Yelp Fusion API key:
 Go to the [Yelp sign-up page](https://www.yelp.com/login?return_url=/developers/v3/manage_app) and create an account. You will be redirected to the Create App page.
