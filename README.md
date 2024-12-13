@@ -38,7 +38,8 @@ Ensure you have Python installed and create a virtual environment. You can do th
 
 Run `pip3 install -r requirements.txt` to install the necessary packages.
 
-Important step! In the project directory, there is a `.env` file. Open it and replace `YOUR_YELP_API_KEY` with your Yelp API key and `YOUR_GEOCODER_API_KEY` with your LocationIQ API key. If you don't provide the API keys the project will not work.
+### Important step! 
+In the project directory, there is a `.env` file. Open it and replace `YOUR_YELP_API_KEY` with your Yelp API key and `YOUR_GEOCODER_API_KEY` with your LocationIQ API key. If you don't provide the API keys the project will not work.
 
 ### Usage
 Once you have the project installed and are in the project directory run `python3 manage.py runserver` to start the app. You can create an account and start a room.
